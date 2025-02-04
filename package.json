@@ -1,0 +1,16 @@
+{
+  "name": "projeto-spotify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tailwindcss -i src/css/styles.css -o src/css/build.css",
+    "watch": "npx tailwindcss -i src/css/styles.css -o src/css/build.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
