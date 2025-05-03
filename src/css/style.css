@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+
+
+ @theme{
+    --color-hoverspt: #18D760;
+    --color-purple-main:#2D46B9;
+    --color-green-main: #1ED760;
+
+
+    --spacing-125px: 125px;
+    
+
+
+    
+   
+    
+} 
+  
+
+
